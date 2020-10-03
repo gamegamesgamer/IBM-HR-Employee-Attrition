@@ -2,6 +2,8 @@
 
 Attrition is a problem that impacts all businesses, irrespective of geography, industry and size of the company. It is a major problem to an organization, and predicting turnover is at the forefront of the needs of Human Resources (HR) in many organizations. Organizations face huge costs resulting from employee turnover. With advances in machine learning and data science, it’s possible to predict the employee attrition.
 
+Use of classification model to predict if an employee is likely to quit could greatly increase the HR's ability to intervenue on time and remedy solution to prevent attrition
+
 The dataset that is published by the Human Resource department of IBM is made available at Kaggle.
 
 ##Steps:
